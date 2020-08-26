@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CSLounge:jar">
+    <output-path>$USER_HOME$/Desktop/Games/Servers/plugins</output-path>
+    <root id="archive" name="CSLounge.jar">
+      <element id="module-output" name="CSLounge" />
+    </root>
+  </artifact>
+</component>
