@@ -1,0 +1,11 @@
+name: CSLounge
+version: ${project.version}
+main: me.knightswhosayni.cslounge.CSLounge
+api-version: 1.13
+prefix: CSL
+authors: [KnightsWhoSayNi_]
+description: A Counter Strike Global Offensive recreation for the Lounge Server.
+commands:
+  counterstrike:
+    description: The main command for the Counter Strike Lounge Plugin.
+    usage: /counterstrike {help}
